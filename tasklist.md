@@ -20,10 +20,10 @@ done except for if I find problems later
  -tests~~
 ended up doing it differently, but end result is the same. Completed unless future problems arise.
 
--ui
+~~-ui
  -main menu enum
  -console io: readString, readLocalDate (I don't think there's anything else actually input in MVP)
  -controller: run, runapploop, viewReservationByHostEmail, editReservation, cancelReservation, getHost, getGuest
  -view: selectMenuOption, getEmail, addReservation, updateReservation, removeReservation;
         displayHeader, displayException, displayResult, displayStatus, displayReservations
- -app: simple, use spring. Try to not use XML.
+ -app: simple, use spring. Try to not use XML.~~
